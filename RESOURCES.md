@@ -10,6 +10,16 @@
 7.  **Antifragile** by Nassim Taleb
 8.  **Poor Charlie's Almanack** by Charlie Munger
 
+## 🏢 Corporate Culture & Leadership
+1.  **Delivering the Wow: Culture as Catalyst for Lasting Success** by Richard Fain (Fast Company Press, 2025)
+2.  **Delivering Happiness** by Tony Hsieh
+3.  **The Culture Code** by Daniel Coyle
+4.  **Creativity, Inc.** by Ed Catmull
+5.  **Unreasonable Hospitality** by Will Guidara
+6.  **Leaders Eat Last** by Simon Sinek
+7.  **The Nordstrom Way to Customer Experience Excellence** by Robert Spector
+8.  **Reinventing Organizations** by Frederic Laloux
+
 ## 🎧 Podcasts
 - **Lex Fridman Podcast**: Deep conversations on tech, science, and life.
 - **Huberman Lab**: Science-based tools for everyday life.
