@@ -38,3 +38,9 @@
 - **[Readwise](https://readwise.io/)**: Spaced repetition for book highlights.
 - **[Obsidian](https://obsidian.md/)**: Networked note-taking.
 - **[Todoist](https://todoist.com/)** / **[Things 3](https://culturedcode.com/things/)**: Task management.
+
+## 💻 GitHub Repositories
+- **[Awesome Productivity](https://github.com/jyguyomarch/awesome-productivity)**: Curated list of productivity tools, apps, and tips.
+- **[Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health)**: Curated list of mental health resources, apps, and articles.
+- **[Awesome Biohacking](https://github.com/mafiaguy/awesome-biohacking)**: Resources for self-optimization and DIY biology.
+- **[Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted)**: Guide to hosting your own services (digital sovereignty).
